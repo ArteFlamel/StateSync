@@ -1,3 +1,5 @@
+Note: I found this version of the readme easier on my eyes, pick your poison, this or the README.
+
 How to use StateSync:
 
 Requirements:
